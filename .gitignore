@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.xlsx
+!datos_ejemplo/*.xlsx
+salida/
+.pytest_cache/
+.DS_Store
